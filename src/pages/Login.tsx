@@ -76,7 +76,7 @@ const CreateAccountPage = () => {
   const {formState} = form;
 
   return (
-    <IonPage className="pt-11 px-4 pb-2 ">
+    <IonPage className="pt-11 px-4 pb-2 bg-white">
       <IonContent scrollY={false}>
         <div className="flex flex-col gap-y-6">
           <div className="flex flex-col gap-y-4">
